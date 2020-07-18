@@ -1,3 +1,6 @@
 [submodule "agora-task"]
 	path = agora-task
 	url = ../agora-task/
+[submodule "sample_repo"]
+	path = sample_repo
+	url = ./sample_repo
